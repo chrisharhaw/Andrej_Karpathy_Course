@@ -7,7 +7,7 @@ This initially involves implementing my own version of:
 - *Makemore* - to learn how to build simple neural networks, introduce frequently used pytorch functions, and familiarise myself with concepts such as regularisation, softmax functions, and gradient descent.
 
 But will go into concepts such as: 
-- MLP
+- Multi-Layer Perceptron (MLP)
 - Bag of Words
 - Transformers
 - small LLM's
