@@ -1,3 +1,4 @@
 #Ignoring the DS Store 
-*.DS_Store
+.DS_Store
 .vscode/
+corpus_out/
